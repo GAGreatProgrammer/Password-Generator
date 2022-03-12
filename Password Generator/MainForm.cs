@@ -33,6 +33,7 @@ namespace Password_Generator
             pbPasswordComplexity.ProgressColorLeft = Color.FromArgb(0, 168, 120);
             pbPasswordComplexity.ProgressColorRight = Color.FromArgb(0, 168, 120);
 
+
             cbUppercase.Checked = true;
             cbLowercase.Checked = true;
             cbNumbers.Checked = true;
